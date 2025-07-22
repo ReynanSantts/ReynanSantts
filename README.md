@@ -4,7 +4,7 @@
 🎓 Reynan | 17 years old
 💻 Information Technology Student
 🎯 Focused on Front-End development
-🧠 Learning every day | 💡 HTML • CSS • JS
+🧠 Learning every day | 💡 HTML • CSS • JS • PHP
 🚀 Looking for challenges and constant evolution
 
 # 💬characteristics
