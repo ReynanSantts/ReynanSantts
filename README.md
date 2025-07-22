@@ -19,7 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-FFFFFF?style=for-the-badge&logo=cypress&logoColor=58D68D&color=FFFFFF)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=black)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 🌐 Software
@@ -29,3 +29,5 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-FFDD00?style=for-the-badge&logo=miro&logoColor=000000)
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-FF6600?style=for-the-badge&logo=lucidchart&logoColor=FFFFFF)
+
+# knowledge src = <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/1e0f489f-4b33-4555-9034-a56a9ccb0c75" />
