@@ -30,5 +30,4 @@
 ![Miro](https://img.shields.io/badge/Miro-FFDD00?style=for-the-badge&logo=miro&logoColor=000000)
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-FF6600?style=for-the-badge&logo=lucidchart&logoColor=FFFFFF)
 
-# <img width="12" height="12" alt="image" src="https://github.com/user-attachments/assets/c75dda7c-be42-4583-bdb8-fcd9af9518f5" />
-knowledge
+# <img width="12" height="12" alt="image" src="https://github.com/user-attachments/assets/c75dda7c-be42-4583-bdb8-fcd9af9518f5"/>knowledge
