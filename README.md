@@ -1,7 +1,7 @@
-# Hello Word, I'm Reynan
+# Hello World, I'm Reynan
 
 # 💡 About me
-🎓 Reynan | 17 years old
+🎓 Reynan | 18 years old
 💻 Information Technology Student
 🎯 Focused on Front-End development
 🧠 Learning every day | 💡 HTML • CSS • JS • PHP
