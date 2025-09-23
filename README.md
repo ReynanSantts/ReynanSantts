@@ -1,4 +1,4 @@
-# Hello Wolrd, I'm Reynan
+# Hello Word, I'm Reynan
 
 # 💡 About me
 🎓 Reynan | 17 years old
